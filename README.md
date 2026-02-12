@@ -6,21 +6,29 @@
 
 </div>
 
----
+<br/>
 
-### 👤 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:bb9af7&height=40&text=👤%20About%20Me&fontSize=16&fontColor=ffffff&animation=fadeIn" width="60%" />
+</div>
 
-```yaml
-name     : Wahyu Pratama
-role     : Backend Developer
-location : Indonesia 🇮🇩
-focus    : APIs · Databases · Server-side Logic
-hobbies  : Coding · Problem Solving · Learning New Tech
+<br/>
+
+```coffee
+name     = "Wahyu Pratama"
+role     = "Backend Developer"
+location = "Indonesia 🇮🇩"
+focus    = ["APIs", "Databases", "Server-side Logic"]
+hobbies  = ["Coding", "Problem Solving", "Learning New Tech"]
 ```
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bb9af7,100:ff9e64&height=40&text=🛠️%20Tech%20Stack&fontSize=16&fontColor=ffffff&animation=fadeIn" width="60%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -38,9 +46,13 @@ hobbies  : Coding · Problem Solving · Learning New Tech
 
 </div>
 
----
+<br/>
 
-### 📊 Stats
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9e64,100:7aa2f7&height=40&text=📊%20Stats&fontSize=16&fontColor=ffffff&animation=fadeIn" width="60%" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -48,11 +60,10 @@ hobbies  : Coding · Problem Solving · Learning New Tech
 
 </div>
 
----
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9e64,50:bb9af7,100:7aa2f7&height=100&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
-  <sub><code>wahyupratama222</code> &nbsp;·&nbsp; Building with ♥ </sub>
+  <sub><code>wahyupratama222</code> &nbsp;·&nbsp; ❤️ Wahyu Pratama</sub>
 </div>
-
