@@ -2,45 +2,40 @@
 
 <br/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=3000&pause=1000&color=CDD9E5&center=true&vCenter=true&width=400&lines=Wahyu+Pratama" alt="Wahyu Pratama" />
-</h1>
+## Hi, I'm Wahyu Pratama 👋
 
-<p>
-  <img src="https://img.shields.io/badge/Backend_Developer-0d1117?style=flat&labelColor=0d1117&color=4493f8&label=" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Indonesia_🇮🇩-0d1117?style=flat&labelColor=0d1117&color=3d444d&label=" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=WahyuPratama222&color=3d444d&style=flat&label=visitors" />
-</p>
-
-<br/>
+<p>A backend developer passionate about building robust & scalable systems.<br/>
+Turning complex problems into clean, efficient solutions.</p>
 
 </div>
 
 ---
 
-**stack**
-
-&nbsp;
-`Java` &nbsp; `Python` &nbsp; `PHP` &nbsp; `JavaScript` &nbsp; `Node.js`
-&nbsp; `HTML` &nbsp; `CSS` &nbsp; `Tailwind CSS` &nbsp; `MySQL`
-
----
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=WahyuPratama222&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&icon_color=4493f8&text_color=9198a1&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuPratama222&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9198a1&text_color=9198a1&langs_count=5" />
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WahyuPratama222&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4493f8&fire=d29922&currStreakLabel=9198a1&sideLabels=9198a1&sideNums=cdd9e5&currStreakNum=d29922&dates=636e7b" />
-
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WahyuPratama222&theme=tokyonight&hide_border=true&background=0d1117&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=7aa2f7&sideNums=f0f6fc&currStreakNum=ff9e64&dates=9198a1&stroke=7aa2f7" />
 
 </div>
 
@@ -50,12 +45,3 @@
   <sub><code>wahyupratama222</code> &nbsp;·&nbsp; building with ♥ from Indonesia</sub>
 </div>
 
-</div>
-
----
-
-<div align="center">
-<sub><samp>Thanks for stopping by ·
-<a href="https://github.com/WahyuPratama222">github.com/WahyuPratama222</a>
-</samp></sub>
-</div>
